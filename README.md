@@ -8,7 +8,7 @@ The code is also open-source with a license, therefore you are allowed to modify
 > [Helix Content](https://steamcommunity.com/sharedfiles/filedetails/?id=1267236756)\
 > [TFA: Project HL2 MMod Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2665902404)\
 > [True Combine Hands](https://steamcommunity.com/sharedfiles/filedetails/?id=2860571852)\
-> [Entropy: Zero 2 - Metropolice Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2854473898)\
+> [Entropy : Zero 2 - Metropolice Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2854473898)\
 > [Mapbase Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=3063666429)
 # Recommended Addons for Usage
 > [!TIP]
@@ -23,7 +23,9 @@ The code is also open-source with a license, therefore you are allowed to modify
 > [LVS: Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3028357706)\
 > [Extended Properties](https://steamcommunity.com/sharedfiles/filedetails/?id=104607712)\
 > [Extended Spawnmenu](https://steamcommunity.com/sharedfiles/filedetails/?id=104603291)\
-> [Extended AI Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=3048721100)
+> [Extended AI Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=3048721100)\
+> [GlowLib](https://steamcommunity.com/sharedfiles/filedetails/?id=3279071164)\
+> [GlowLib - Entropy : Zerp 2 - Metropolice Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3281945004)
 
 **Fonts:**\
 [Raju Regular](https://www.onlinewebfonts.com/download/ab87eec92788f9572b9c13028bf2edb6) - Main Schema Font\
