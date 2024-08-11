@@ -49,12 +49,12 @@ end
 function PANEL:PaintBackground(width, height)
 	local alpha = self.selected and 230 or self.currentBackgroundAlpha
 
-	derma.SkinFunc("DrawImportantBackground", 0, 0, width, height, ColorAlpha(self.backgroundColor, alpha))
+	derma.SkinFunc("DrawImportantBackground", 0, 0, width, height, ColorAlpha(self:GetBackgroundColor(), alpha))
 end
 
 function PANEL:Paint(width, height)
 	self:PaintBackground(width, height)
-	
+
 	BaseClass.Paint(self, width, height)
 end
 
