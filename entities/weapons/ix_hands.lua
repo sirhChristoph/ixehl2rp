@@ -212,7 +212,6 @@ end
 function SWEP:CanHoldObject(entity)
 	local physics = entity:GetPhysicsObject()
 
-	print(hook.Run("CanOverridePlayerHoldObject", self:GetOwner(), entity))
 	if ( hook.Run("CanOverridePlayerHoldObject", self:GetOwner(), entity) == true ) then
 		if not ( self:IsHoldingObject() ) then
 			return true
