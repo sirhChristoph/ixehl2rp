@@ -10,7 +10,7 @@ end
 
 SWEP.Category = "ix: HL2 RP"
 SWEP.Author = "Chessnut"
-SWEP.Instructions = "Primary Fire: Stun.\nALT + Primary Fire: Toggle stun.\nSecondary Fire: Push/Knock."
+SWEP.Instructions = "Primary Fire: Stun.\nSprint + Primary Fire: Toggle stun.\nSecondary Fire: Push/Knock."
 SWEP.Purpose = "Hitting things and knocking on doors."
 SWEP.Drop = false
 
